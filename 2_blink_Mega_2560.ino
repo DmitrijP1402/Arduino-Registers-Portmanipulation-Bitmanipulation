@@ -1,3 +1,10 @@
+/********************************************
+date:      "06.02.2023"
+authors:   "DmitrijP1402"
+filename:  "2_blink_Mega_2560.ino"
+********************************************/
+
+
 void setup() {
 	DDRD = DDRD | B10001100; //Leds as OUTPUT at Pin 38, 19 & 18 LED Mega 2560
 }
