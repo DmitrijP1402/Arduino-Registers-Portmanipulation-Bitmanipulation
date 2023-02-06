@@ -6,7 +6,7 @@ filename:  "3_Running_light_Uno.ino"
 
 void setup () {
   DDRD = DDRD | B11111111;  //Leds as OUTPUT at Pin 0-7
-  DDRB = DDRB | B00111111;  //Leds as OUTPUT at Pin 8-18
+  DDRB = DDRB | B00111111;  //Leds as OUTPUT at Pin 8-13
 }
 
 int time = 200;
