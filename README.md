@@ -17,3 +17,5 @@ Schematic for "2_blink_Mega_2560.ino":
 
 Schematic for "3_Running_light_Uno.ino":
 ![image](https://user-images.githubusercontent.com/118051854/216960872-9a57fc13-a14d-432d-b000-838257b9593c.png)
+
+Schematic for "4_Button_LED_Mega_2560.ino"
