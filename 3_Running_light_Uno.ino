@@ -1,3 +1,9 @@
+/********************************************
+date:      "06.02.2023"
+authors:   "DmitrijP1402"
+filename:  "3_Running_light_Uno.ino"
+********************************************/
+
 void setup () { 
   DDRD = DDRD | B11111111; //Pin 7-0
   DDRB = DDRB | B00111111; //Pin 13-8
