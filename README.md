@@ -16,7 +16,7 @@ Schematic for "2_blink_Mega_2560.ino":
 ![image](https://user-images.githubusercontent.com/118051854/216959318-b0b54e01-1d5c-4aab-8f9c-d468fc8e30da.png)
 
 Schematic for "3_Running_light_Uno.ino":
-![image](https://user-images.githubusercontent.com/118051854/216960872-9a57fc13-a14d-432d-b000-838257b9593c.png)
+![Register Led](https://user-images.githubusercontent.com/118051854/219354839-b55c6c6c-d601-4f8a-906c-503b8cb13449.png)
 
 Schematic for "4_Button_LED_Uno.ino"
 ![image](https://user-images.githubusercontent.com/118051854/217044062-cbfff0cd-f4f4-4a44-921a-921ac5df5132.png)
